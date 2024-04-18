@@ -1,0 +1,1 @@
+change the script to go back a directory 
